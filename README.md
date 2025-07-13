@@ -23,3 +23,15 @@ System Design is the process of planning how to build a complete software system
 8. Data Consistency and Transaction isolation levels  
 9. Message Queues 
 10. Event Driven Architecture
+
+### Contents under Part 3 : 
+1. Introduction to DevOps 
+2. Single point of failure 
+3. Virtualization and Containerization  
+4. Service Discovery and Health Checks 
+5. Cascading Failure  
+6. Rate Limiting  
+7. Auto,Pre - Scaling and Batch Processing 
+8. Caching , Gradual Deployment and Smart Coupling  
+9. Anomaly Detection in Distributed Systems 
+10. Distributed Caching , Cache Policies and Global Cache 
